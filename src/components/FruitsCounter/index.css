@@ -1,0 +1,46 @@
+/* Write your CSS here */
+
+.bg {
+  background-color: #ffd569;
+  height: 100vh;
+  font-family: 'Roboto';
+  padding: 20px;
+  text-align: center;
+}
+
+.card {
+  border-style: solid;
+  border-radius: 10px;
+  background-color: white;
+  height: 90vh;
+}
+
+.imageFruits {
+  height: 300px;
+  width: 300px;
+}
+
+.fruits {
+  display: flex;
+  justify-content: space-around;
+}
+
+.fruit-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.btn {
+  width: 136px;
+  height: 36px;
+  color: white;
+  background-color: #007bff;
+  border-style: solid;
+  border-radius: 6px;
+  border-width: 0px;
+  margin-top: 10px;
+}
+
+.textColor {
+  color: #ffd569;
+}
